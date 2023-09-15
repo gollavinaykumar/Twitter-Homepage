@@ -1,0 +1,25 @@
+.left-navbar {
+    max-width: auto;
+    margin-top: -50px;
+    
+}
+#c1 {
+    border: 1px solid black;
+    max-width: 40%;
+}
+#r1{
+    align-self: center;
+}
+
+#btn1{
+    width: auto;
+}
+#main1 img{
+    width: 40px;
+    border-radius: 50px;
+}
+.right-navbar {
+    max-width: auto;
+    border: 1px solid lightgray;
+}
+
