@@ -5,7 +5,7 @@
 }
 #c1 {
     border: 1px solid black;
-    max-width: 40%;
+    max-width: auto;
 }
 #r1{
     align-self: center;
